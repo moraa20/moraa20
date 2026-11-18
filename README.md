@@ -6,13 +6,14 @@ I enjoy building practical software solutions, exploring technology, and creatin
 
 My interests include full-stack development, backend engineering, database systems, and UI/UX design. I enjoy taking ideas from concept to implementation and continuously improving my technical skills through hands-on projects.
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 
 **Frontend**
 - JavaScript
 - React.js
 - HTML5 & CSS3
 - Bootstrap
+- Tailwind
 
 **Backend**
 - Python
@@ -31,7 +32,7 @@ My interests include full-stack development, backend engineering, database syste
 - Docker
 - VS Code
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 **SellerHub** – Multi-vendor e-commerce platform built with React, FastAPI and PostgreSQL.
 
@@ -39,13 +40,13 @@ My interests include full-stack development, backend engineering, database syste
 
 **Sunset Serenity** – Hotel and restaurant management application built with React, Node.js and MongoDB.
 
-### 🌱 Currently Exploring
+###  Currently Exploring
 - Backend engineering and API development
 - Database design and management
 - UI/UX design
 - Cloud computing and deployment
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 - [LinkedIn](https://linkedin.com/in/sylvia-machira-9aa0882b3/)
 - [Portfolio](https://gagasly.netlify.app/)
