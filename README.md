@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Sylvia 👋
 
-<!--
-**moraa20/moraa20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Graduate | Software Engineer | UI/UX Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building practical software solutions, exploring technology, and creating user-friendly digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include full-stack development, backend engineering, database systems, and UI/UX design. I enjoy taking ideas from concept to implementation and continuously improving my technical skills through hands-on projects.
+
+### 🛠️ Technologies & Tools
+
+**Frontend**
+- JavaScript
+- React.js
+- HTML5 & CSS3
+- Bootstrap
+
+**Backend**
+- Python
+- FastAPI
+- Node.js
+- Express.js
+
+**Databases**
+- PostgreSQL
+- MongoDB
+- SQL
+
+**Tools & Platforms**
+- Git & GitHub
+- Linux / Ubuntu
+- Docker
+- VS Code
+
+### 🚀 Featured Projects
+
+**SellerHub** – Multi-vendor e-commerce platform built with React, FastAPI and PostgreSQL.
+
+**EscapeVibes** – Hotel recommendation system exploring personalized recommendations using AI/ML.
+
+**Sunset Serenity** – Hotel and restaurant management application built with React, Node.js and MongoDB.
+
+### 🌱 Currently Exploring
+- Backend engineering and API development
+- Database design and management
+- UI/UX design
+- Cloud computing and deployment
+
+### 🤝 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/sylvia-machira-9aa0882b3/)
+- [Portfolio](https://gagasly.netlify.app/)
+- [GitHub](https://github.com/moraa20)
+
+---
+
+*Building, learning, and improving one project at a time.*
+
+
